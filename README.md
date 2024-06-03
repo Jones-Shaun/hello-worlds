@@ -13,7 +13,7 @@ Target languages:
 - C#
 - Go
 - Javascript
-- JSON (if such a thing exists :) )
+- JSON
 
 Let's get to reading some documentation:
 
